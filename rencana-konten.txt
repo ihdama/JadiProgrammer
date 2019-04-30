@@ -7,3 +7,5 @@ golang
 php
 python
 game and fun
+angular
+react native
