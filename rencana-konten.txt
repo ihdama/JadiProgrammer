@@ -12,6 +12,9 @@ Framwork CI
 Buku
 Ballpont
 Token Mandiri
+solatip
+gunting
+softcase
 pintu
 gembok
 engsel
