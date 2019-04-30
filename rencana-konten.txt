@@ -12,6 +12,6 @@ Framwork CI
 Buku
 Ballpont
 Token Mandiri
-miyako
-kompor
-gelas
+pintu
+gembok
+engsel
